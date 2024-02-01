@@ -32,7 +32,7 @@ h1 {
   background: transparent;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: #;
+  color: #fff;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -90,7 +90,7 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #87C2A8;
+  background: #fff;
   border-radius: 6px;
   color: #713e94;
   transition: 1s linear;
